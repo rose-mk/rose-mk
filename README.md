@@ -1,16 +1,19 @@
-## Hi there 👋
+# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3R2eXA5bDIwbHFsams2NWJvYjc5YmhobjhocWphd3RjcjZ0aXE3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z6TB0ZtiS8IDlHXmi9/giphy.gif" width="50"> Hi, I'm Mayli! 
 
-<!--
-**rose-mk/rose-mk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<blockquote style="border-left: 5px solid #ff76bb; padding-left: 10px;">
+🚀 Self-taught student exploring the world of programming.<br>
+📚 Passionate about mathematics.<br>
+💻 Currently learning.<br>
+🎯 My goal: To create technology that makes a positive impact. 
+</blockquote>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br> 
+
+![Rose's GitHub stats](https://github-readme-stats.vercel.app/api?username=rose-mk&show_icons=true&theme=omni)
+
+<br>
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rose-mk&layout=compact&theme=omni)
+
+
