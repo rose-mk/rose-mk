@@ -10,7 +10,7 @@
 
 <br> 
 
-[Rose's GitHub stats](https://github-readme-stats.vercel.app/api?username=rose-mk&show_icons=true&theme=omni)
+![Rose's GitHub stats](https://github-readme-stats.vercel.app/api?username=rose-mk&show_icons=true&theme=omni)
 
 <br>
 
